@@ -1,0 +1,1 @@
+Capistrano delivery configurations
